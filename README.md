@@ -1,0 +1,1 @@
+This work, which constitutes my master's thesis, focuses on employing data-driven methods to identify new candidate materials for hydrogen storage applications. In the following files, we outline how the process progresses from data collection to model construction ultimately enabling the prediction of potential candidate materials.
